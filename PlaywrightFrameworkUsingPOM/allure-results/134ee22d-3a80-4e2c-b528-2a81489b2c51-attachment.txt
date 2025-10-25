@@ -1,0 +1,4 @@
+Running Login Page Fixture Before Test Using CSV File
+Reading CSV File
+Data Coming From CSV [object Object]
+Running After Test For JSON File

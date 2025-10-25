@@ -1,0 +1,8 @@
+Running Course Creation Fixture Before Test Using JSON File
+{
+  name: 'Bhupendra',
+  age: 30,
+  status: false,
+  address: [ 'Delhi', 'Bangalore', 'Pune' ]
+}
+Running After Test For JSON File

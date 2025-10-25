@@ -1,0 +1,3 @@
+Running Login Page Fixture Before Test Using CSV File
+Reading CSV File
+Data Coming From CSV username,password,mukeshotwaniplaywright@email.com,mukesh@123

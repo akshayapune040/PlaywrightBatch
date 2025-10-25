@@ -1,0 +1,12 @@
+Running Login Page Fixture Before Test Using CSV File
+Reading CSV File
+Data For Login Fixture [object Object]
+Running Course Creation Fixture Before Test Using JSON File
+Reading JSON File
+Course Data from Fixture:  {
+  description: 'Sample Course For Playwright',
+  instructorname: 'Mukesh Otwani',
+  courseFees: '100'
+}
+Running After Test For JSON File
+Running After Test For CSV File
